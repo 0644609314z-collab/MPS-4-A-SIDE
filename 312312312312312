@@ -1,7 +1,3 @@
-pcall(function()
-    game:HttpGet("https://api.counterapi.dev/v2/0644609314z-collabs-team-4980/mps/up")
-end)
-
 
 -- This file was protected using Luraph Obfuscator v14.8 [https://lura.ph/]
 
